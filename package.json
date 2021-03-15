@@ -1,0 +1,23 @@
+{
+  "name": "grap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node list.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanaltair/grap.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanaltair/grap.js/issues"
+  },
+  "homepage": "https://github.com/ryanaltair/grap.js#readme",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  }
+}

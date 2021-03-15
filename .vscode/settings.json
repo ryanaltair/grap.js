@@ -1,0 +1,16 @@
+{
+    "python.formatting.provider": "black",
+    "standard.engine": "standard",
+    "editor.minimap.enabled": false,
+    "standard.validate": [
+
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "standard.options": {
+        "ignore": ["node_modules/**"]
+    },
+    "standard.autoFixOnSave": true
+}
